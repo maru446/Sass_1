@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+}
+
+body h1 {
+  text-align: center;
+}
+
+body p, body ol {
+  color: white;
+}
+
+body p strong {
+  color: red;
+}
+/*# sourceMappingURL=style.css.map */

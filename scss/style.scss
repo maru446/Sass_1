@@ -1,0 +1,17 @@
+@import "color";
+
+body {
+    background-color: $black;
+
+    h1 {
+        text-align: center;
+    }
+
+    p,ol {
+        color: $white;
+    }
+
+    p strong {
+        color: $red;
+    }
+}
